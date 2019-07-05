@@ -1,0 +1,19 @@
+hookURL: "https://ericfunc.dictybase.dev/github"
+secret: YOUR_KEY_HERE....
+owner: "dictyBase"
+
+repos:
+# frontend
+- dicty-stock-center
+- dicty-frontpage
+- genomepage
+- dictyaccess
+- publication
+# backend
+- modware-stock
+- modware-order
+# - modware-annotation
+# - modware-identity
+# - modware-user
+# - modware-content
+# - graphql-server
